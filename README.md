@@ -1,6 +1,6 @@
 🚀 Sachin Teenwal | DevOps & Cloud Engineer
 
-<h1 align="center">Hi 👋, I'm Sachin Teenwal</h1> <h3 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer+in+Making;|cloud+%26+Kubernetes+Enthusiast|;CI/CD+%7C+GitOps+%7C+DevSecOps;Terraform+%7C+Docker+%7C+K8s&center=true&size=28"> </a> </h3> <img align="right" alt="devops" width="420" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sachintee&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
+<h1 align="center">Hi 👋, I'm Sachin Teenwal</h1> <h3 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer+in+Making;|cloud+Kubernetes+Enthusiast|;CI/CD+%7C+GitOps+%7C+DevSecOps;Terraform+%7C+Docker+%7C+K8s&center=true&size=28"> </a> </h3> <img align="right" alt="devops" width="420" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sachintee&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
 👨‍💻 About Me
 
 🎓 MCA Student | Aspiring DevOps Engineer
@@ -37,13 +37,13 @@
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ## 🌐 Backend & Web
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
 
 ## 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white)
 
 ## 🧰 Tools & OS
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black)
