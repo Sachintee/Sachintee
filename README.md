@@ -1,6 +1,6 @@
 🚀 Sachin Teenwal | DevOps & Cloud Engineer
 
-<h1 align="center">Hi 👋, I'm Sachin Teenwal</h1> <h3 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer+in+Making;|Cloud+%26+Kubernetes+Enthusiast|;CI/CD+%7C+GitOps+%7C+DevSecOps;Terraform+%7C+Docker+%7C+K8s&center=true&size=28"> </a> </h3> <img align="right" alt="devops" width="420" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sachintee&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
+<h1 align="center">Hi 👋, I'm Sachin Teenwal</h1> <h3 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer+in+Making;|cloud+%26+Kubernetes+Enthusiast|;CI/CD+%7C+GitOps+%7C+DevSecOps;Terraform+%7C+Docker+%7C+K8s&center=true&size=28"> </a> </h3> <img align="right" alt="devops" width="420" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sachintee&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
 👨‍💻 About Me
 
 🎓 MCA Student | Aspiring DevOps Engineer
@@ -16,7 +16,8 @@
 🚀 Goal: Become a production-grade DevOps engineer
 
 
-🧰 Tech Stack
+
+##Tech Stack
 ## 🚀 DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
@@ -51,22 +52,22 @@
 
 
 🚀 Featured Projects
-|
+
 🔹 End-to-End CI/CD & GitOps Kubernetes Platform
-|
+
 🔹 Gitops-K8s-Deployment-P2
-|
+
 🔹 Kubernetes Auto-Scaling Application (HPA)
-|
+
 🔹 Infrastructure as Code CI/CD with Terraform & Terratest
 
 ## 📊 GitHub Stats
 
-![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachintee&show_icons=true&theme=dark)
+![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachintee&theme=dark&hide_border=false)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sachintee&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sachintee&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachintee&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachintee&theme=dark&hide_border=false&layout=compact)
 
 
 ### 🔝 Top Contributed Repo
