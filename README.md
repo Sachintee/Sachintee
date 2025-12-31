@@ -1,6 +1,6 @@
 🚀 Sachin Teenwal | DevOps & Cloud Engineer
 
-<h1 align="center">Hi 👋, I'm Sachin Teenwal</h1> <h3 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer+in+Making; Cloud+%26+Kubernetes+Enthusiast;CI/CD+%7C+GitOps+%7C+DevSecOps;Terraform+%7C+Docker+%7C+K8s&center=true&size=28"> </a> </h3> <img align="right" alt="devops" width="420" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=SachinTeenwal&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
+<h1 align="center">Hi 👋, I'm Sachin Teenwal</h1> <h3 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer+in+Making;Cloud+%26+Kubernetes+Enthusiast;CI/CD+%7C+GitOps+%7C+DevSecOps;Terraform+%7C+Docker+%7C+K8s&center=true&size=28"> </a> </h3> <img align="right" alt="devops" width="420" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=SachinTeenwal&label=Profile%20Views&color=0e75b6&style=flat" /> </p>
 👨‍💻 About Me
 
 🎓 MCA Student | Aspiring DevOps Engineer
@@ -32,8 +32,8 @@
 
 ## 🧠 Programming & Scripting
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ## 🌐 Backend & Web
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
@@ -50,7 +50,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sachintee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=Sachintee&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachintee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Sachintee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sachintee&theme=dark&hide_border=false)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachintee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 
 
@@ -67,11 +69,11 @@
 📊 GitHub Stats
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=LakshayD02&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=Sachintee&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
 
 
 ### My GitHub Activity
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LakshayD02&bg_color=00073d&color=ffffff&line=ffffff&point=1100ff&area=true&hide_border=true) <br /><br />
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sachintee&bg_color=00073d&color=ffffff&line=ffffff&point=1100ff&area=true&hide_border=true) <br /><br />
 
 
 🧩 DSA & Coding Platforms
